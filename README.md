@@ -1,10 +1,11 @@
 # NegPiP - Negative Prompt in Prompt
+
+Note: a poor attempt to fix using embedding
+
 [<img src="https://img.shields.io/badge/lang-Egnlish-blue.svg?style=plastic" height="25" />](README.md)
 [<img src="https://img.shields.io/badge/言語-日本語-green.svg?style=plastic" height="25" />](README_jp.md)
 [<img src="https://img.shields.io/badge/语言-中文-red.svg?style=plastic" height="25" />](README_cn.md)
 [<img src="https://img.shields.io/badge/Support-%E2%99%A5-magenta.svg?logo=github&style=plastic" height="25" />](https://github.com/sponsors/hako-mikan)
-
-Note: a poor attempt to fix using embedding
 
 Extension for Stable Diffusion web-ui enables negative prompt in prompt
 
